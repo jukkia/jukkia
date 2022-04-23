@@ -11,3 +11,5 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Julia-CSS" height="30" width="40"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Julia-Js" height="30" width="40"> 
 </div> 
+
+![Snake animation](https://github.com/jukkia/jukkia/blob/output/github-contribution-grid-snake.svg) 
