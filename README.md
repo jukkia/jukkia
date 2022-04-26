@@ -13,4 +13,12 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Julia-Js" height="30" width="40"> 
 </div> 
 
+<div><br>
+ <a href=""</a> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" width="40">
+ <a href="https://www.linkedin.com/in/julia-do-amaral-jord%C3%A3o-3989b6220/"</a> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="40">
+ <a href=""</a> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="40"> 
+ <a href=""</a> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="30" width="40">
+ <a href=""</a> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white!" alt="Spotify" height="30" width="40">
 
+
+</div>
